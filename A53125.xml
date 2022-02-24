@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Bishops-Gate-Street. Being a true relation of a most barbarous and bloody murder, committed by one Jacob Turner, a broad-weaver; upon the body of Mary Turner his wife; in Lamb-Alley, in Bishops-Gate-Street. With an account of the coroners inquest, who sate upon the deceased, on Friday the 18th. of this instant January, 1688/9. Who brought in the said Turner, guilty of willful murder.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53125</idno>
+            <idno type="STC">Wing N948B</idno>
+            <idno type="STC">ESTC R205235</idno>
+            <idno type="EEBO-CITATION">99825349</idno>
+            <idno type="PROQUEST">99825349</idno>
+            <idno type="VID">29729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29729)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1766:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Bishops-Gate-Street. Being a true relation of a most barbarous and bloody murder, committed by one Jacob Turner, a broad-weaver; upon the body of Mary Turner his wife; in Lamb-Alley, in Bishops-Gate-Street. With an account of the coroners inquest, who sate upon the deceased, on Friday the 18th. of this instant January, 1688/9. Who brought in the said Turner, guilty of willful murder.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Stephen Draper,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1689]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printer's name and place of publication from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, Jacob, d. 1689 --  Early works to 1800.</term>
+               <term>Turner, Mary, d. 1689 --  Early works to 1800.</term>
+               <term>Murder --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29729:1"/>
+            <!-- PDF PAGE 16 -->
+            <head>
+               <hi>NEWS from</hi> Biſhops-Gate-Street. Being a True RELATION Of a moſt <hi>Barbarous</hi> and <hi>Bloody</hi> MURDER, Committed by one <hi>Jacob Turner, a</hi> Broad-Weaver; upon the Body of <hi>Mary Turner</hi> his Wife; in <hi>Lamb-Alley,</hi> in <hi>Biſhops-Gate-Street.</hi>
+            </head>
+            <head type="sub">With an Account of the Coroners Inqueſt, who ſate upon the Deceaſed, on <hi>Friday</hi> the 18th. of this Inſtant <hi>January,</hi> 1688/9. Who brought in the ſaid <hi>Turner,</hi> Guilty of Willful Murder.</head>
+            <argument>
+               <p>
+                  <hi>MAny and Notorious are the Murders, that of late have been Committed by divers wicked Perſons, and in ſun<g ref="char:EOLhyphen"/>dry manners: But none more to be lamented, than this <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Horrid and <g ref="char:V">Ʋ</g>nnatural, as thoſe of Husbands on their Wives,</hi> &amp;c. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>deplorable Inſtance, of which</hi> (good Reader) <hi>be pleaſed to <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ke as followeth:</hi>
+               </p>
+            </argument>
+            <pb n="2" facs="tcp:29729:2"/>
+            <!-- PDF PAGE 17 -->
+            <p>In <hi>Lamb-Alley,</hi> in the Pariſh of St. <hi>Botolph Biſhops gate,</hi> at the Houſe of one Mr. <hi>Vowel,</hi> a Victular, over againſt the Sign of the <hi>Laſt;</hi> Lodged for ſome conſiderable time, one <hi>Jacob Turner,</hi> and his Wife <hi>Mary.</hi> He was Born in the Pariſh of St. <hi>Mary White-Chappel,</hi> of honeſt Parents, being carefully brought up; and when capable, was by his Induſtrious Pa<g ref="char:EOLhyphen"/>rents bound an Apprentice to a Weaver; but being very loote and diſſolute youth; as ſoon as the Term of his Apprentiſhip was expir'd, he betook himſelf to theſe Extravagancies, which in this Age (alas) are to predominant, as well as Epidimical. Notwithſtanding all this, he had the happineſs to Marry with a Vertuous and Chaſt Maid, with whom he has lived theſe 22 years; and by whom God has bleſt him with a Pious and Dutiful Daughter, now almoſt 21 years of Age: However theſe Bleſſings were not eſteem'd by him, as ſent by an over<g ref="char:EOLhyphen"/>ruling Providence: But being inſtigated by the Devil, per<g ref="char:EOLhyphen"/>petrated this deplorable Murther on the Body of his Wife, in the manner following.</p>
+            <p>On <hi>Wedneſday</hi> the Second of this Inſtant <hi>January,</hi> 1688/9. A<g ref="char:EOLhyphen"/>bout three in the Afternoon, this ſaid <hi>Turner</hi> being drinking at the Sign of the <hi>Lamb,</hi> in the aforeſaid Alley, and wanting Money to diſcharge his Reckoning; he ſent one to his Wife (who was then a Nurſe to one Mrs. <hi>Freeman</hi> a Broad-weaver in the ſame Alley) but ſhe not having wherewith all to com<g ref="char:EOLhyphen"/>ply with his demands, he immediately went to his Lodgings, at the aforeſaid Victualing Houſe; where ſending for his Wife, ſhe preſently came to him, whom he led up Stairs; and after many Curſes and Oaths, and other Abuſive Languages, he fell a Beating of her; and ſhe ſtooping down to ſave her Face, he took up a Houſe Knife, that lay by him on the Table, and ſtruck her with great violence into the Ribs, under the Right Shouldier, which immediately occaſioned a great effuſion of Blood.</p>
+            <pb n="3" facs="tcp:29729:2"/>
+            <!-- PDF PAGE 17 -->
+            <p>After which having ſome <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe, he feignedly caught her up in his Arms; telling her, he having done her buſineſs. would now do his own; but (poor Woman) ſhe Innocently begged of him not to do any violence to himſelf; but immediately he in a great Paſſion, ſtomping and raving, his Landlord ran up Stairs with his Son, who coming into the Room, found him the ſaid <hi>Turner,</hi> in the middle of the Room, in a very Impudent and Bravado Poſture, with his Arms exten<g ref="char:EOLhyphen"/>ded, and accoſting his ſaid Landlord; cries out, <hi>I have done her Buſineſs</hi> (meaning his ſaid Wife.) The Landlord, replyed to him, <hi>Turner, now you have done bravely; now you'll be hang'd:</hi> up<g ref="char:EOLhyphen"/>on which words, <hi>Turner</hi> took up another Knife, and made at Mr. <hi>Vowel,</hi> his Landlord, ſwearing he would do his Buſineſs too; but <hi>Vowel</hi> and his Son over-powring him, took the Knife from him, and quell'd him: Many Women of the Neighbour<g ref="char:EOLhyphen"/>hood, coming in, got the Woman to Bed, and ſent for one Mr. <hi>Litchfield</hi> the Elder, a Neighbouring Chyrurgìon, and <hi>Turner</hi> himſelf run in his Mad fit, for Mr. <hi>Litchfield</hi>'s Son aſſronting the Old Gentleman, and forcing him to give place to his Son; who having let her Blood, and applyed ſutable Medicaments to her, was asked by the Company, whether the Wound would prove Mortal, but would give no poſitive Anſwer, but ſaid, he much feared her Recovery; notwithſtanding, the Ignorant Neighbourhood, took no Care to ſecure him; and he as im<g ref="char:EOLhyphen"/>pudently went about his Buſineſs, without any Remorſe or Concern, for what he had done, ſhe, the ſaid <hi>Mary Turner,</hi> lay Languiſhing from the Second day of this Inſtant, to this laſt <hi>Wedneſday,</hi> being the Sixteenth; during which ſpace of time, this Villanous Monſter of a Man, behav'd himſelf very impu<g ref="char:EOLhyphen"/>dently, both to his Wife, and the Neighbours, that diſcour<g ref="char:EOLhyphen"/>ſed and reaſoned with him, in indeavouring to lay before him the Heynouſneſs of his horrid Crime; but he replyed, only
+<pb n="4" facs="tcp:29729:3"/>
+               <!-- PDF PAGE 18 -->with Oaths, Curſes, and Blaſphamous Expreſſions: and in<g ref="char:EOLhyphen"/>ſtead of having the leaſt Remorſe of Conſcience, avowed ſe<g ref="char:EOLhyphen"/>veral times, that if it were to do again, he would do it; and further. That he had more Perſons Buſineſs to do, beſides her, his ſaid Wife.</p>
+            <p>As ſoon as the Neighbour-hood, found his Wife was Expi<g ref="char:EOLhyphen"/>ring, they procur'd a Conſtable, and ſeiſed him, at a ſmall Ale-Houſe, at the Sign of the Feathers in the Artillery-Lane; who, perceiving the Conſtable coming, with his Long Staff, came out to him; very impudently, ſaying, <hi>I am the Man, who, I ſuppoſe you ſeek after;</hi> I am ready to go with you; who immediately, (he being taken in the <hi>Tower</hi> Liberty) carryed him, before the Right Honourable, the Lord <hi>Lucas,</hi> who committed him to Priſon, where, he continues, in order to his Tryal, that he may receive the Juſt Puniſhment, for ſo Barbarous, Bloody and Unnatural Murther; and laſt Night, being the Eighteenth Inſtant, the Coroners and Jury, ſate on the Deceaſed Body, and brought in <hi>Jacob Turner</hi> Guilty of Willful Murther. And thus Reader, I hope this may be a warning to deter others from committing the like Crime.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This may be Printed,</hi> 1689.</p>
+         </div>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Stephen Draper.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
